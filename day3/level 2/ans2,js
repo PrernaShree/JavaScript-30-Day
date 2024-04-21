@@ -1,0 +1,5 @@
+let a = prompt("Enter side a : ","numbers goes here")
+let b = prompt("Enter side b : ","numbers goes here")
+let c = prompt("Enter side c : ","numbers goes here")
+const perimeter = a + b + c
+console.log('The perimeter of the triangle is '+ perimeter)
